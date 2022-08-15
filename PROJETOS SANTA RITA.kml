@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PROJETOS SANTA RITA.kml</name>
+	<Style id="inline00">
+		<LineStyle>
+			<color>80ff0000</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline50">
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline330</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline26">
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline151">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline330">
+		<LineStyle>
+			<color>8000ff00</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline24">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline25">
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline71">
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline90">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline81">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline100">
+		<LineStyle>
+			<color>8000ff00</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline60">
+		<LineStyle>
+			<color>80ff0000</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>PROJETOS SANTA RITA</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>AMBIENTAIS</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>LICENCIAMENTO CANALIZAÇÃO B. FAMÍLIA ANDRADE</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline12</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71054392278916,-22.25275905373367,0 -45.71029485576094,-22.25360900674865,0 -45.71021197112775,-22.25360901986795,0 -45.71033276917595,-22.25313036469928,0 -45.70894805597093,-22.25282399726121,0 -45.70883330998104,-22.25287153456727,0 -45.70849896267332,-22.25248047553055,0 -45.70859844695835,-22.25244341526183,0 -45.70883392221076,-22.25278014322353,0 -45.70897603406611,-22.25272167677715,0 -45.71034391262733,-22.25307203144113,0 -45.71043722686433,-22.25274093928882,0 -45.71054392278916,-22.25275905373367,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>EIA-RIMA - DISTRITO INDUSTRIAL FAZENDA BELVEDERE</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline12</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.78542651729033,-22.26550222037751,0 -45.78518248728906,-22.26382872064251,0 -45.7849411464122,-22.26229673202189,0 -45.78430294744405,-22.26090177127705,0 -45.78503682912114,-22.26028759495522,0 -45.78567478177596,-22.26007871087286,0 -45.78759289075977,-22.26030741488866,0 -45.7886128948872,-22.2627935976392,0 -45.78933583359979,-22.26419609670195,0 -45.78542651729033,-22.26550222037751,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>RCA-PCA - DISTRITO INDUSTRIAL CEEMPAC</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline12</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.76975213258303,-22.26227598669238,0 -45.77048192438216,-22.2608754737605,0 -45.77166502481555,-22.26144152575414,0 -45.77318312995855,-22.2616235396619,0 -45.7736578174734,-22.26486340158712,0 -45.7670347902319,-22.2647656682484,0 -45.76789519400968,-22.26179471252703,0 -45.76975213258303,-22.26227598669238,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>OUTORGA PONTE BAIRRO SÃO JOÃO</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline12</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71403620230328,-22.22802636988803,0 -45.71374838250222,-22.22819440609558,0 -45.71368837156351,-22.22811140282396,0 -45.71395938823081,-22.22794873283296,0 -45.71403620230328,-22.22802636988803,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LICENCIAMENTO AVENIDA PARQUE - TRECHO I</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline12</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.72649396950126,-22.2515333981791,0 -45.72350830856965,-22.25065960136522,0 -45.72383616281677,-22.25026623717969,0 -45.72482509752187,-22.25053675879994,0 -45.72545063814199,-22.24837257474001,0 -45.725167916451,-22.24733498893887,0 -45.72418076702068,-22.24662183253496,0 -45.7228608918708,-22.24583461740536,0 -45.72152822216692,-22.24714359232099,0 -45.72052850296094,-22.24772628652817,0 -45.72025395519253,-22.24747715971436,0 -45.7227855418264,-22.24537692517763,0 -45.72441926766349,-22.24619808625666,0 -45.72548601104633,-22.24712481168241,0 -45.72571812395174,-22.24822422077386,0 -45.72517368917427,-22.25053446965565,0 -45.72677707451211,-22.2510126533928,0 -45.72649396950126,-22.2515333981791,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>LICENCIAMENTO AV. EMB. BILAC PINTO - FASE I</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline12</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71371014984496,-22.23022773866343,0 -45.7139099574797,-22.23039245985523,0 -45.71361339978688,-22.23081692825127,0 -45.71318281311044,-22.23123975735827,0 -45.71276969537573,-22.23143832463393,0 -45.71265213377108,-22.23123427271091,0 -45.71304639469576,-22.23102642525979,0 -45.71340847593977,-22.23065317197656,0 -45.71371014984496,-22.23022773866343,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>OUTORGA PONTE AV. PARQUE</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline12</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.72423714460522,-22.24611591388364,0 -45.7239568683162,-22.24645929847631,0 -45.7233207799875,-22.24610885993804,0 -45.72356725241576,-22.24575650697053,0 -45.72423714460522,-22.24611591388364,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>ELABORADOS</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Folder>
+				<name>TOPOGRAFIAS</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>LEV. TOP. URBANIZAÇÃO LUIS RENNÓ</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline81</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-45.72642048977968,-22.22543895808431,0 -45.72597481342963,-22.22530776273577,0 -45.72525301755638,-22.22426366298439,0 -45.72454623615215,-22.22461980249119,0 -45.72420116027922,-22.22403446329496,0 -45.72529175402101,-22.22342502488871,0 -45.72482086940882,-22.22264675751917,0 -45.72467802612295,-22.22197591137671,0 -45.72572756926267,-22.22216374844433,0 -45.7272351008242,-22.22278969897152,0 -45.72642048977968,-22.22543895808431,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>LEV. TOP. ESQUINA INCUBADORA</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline81</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-45.70955441163563,-22.25561117578896,0 -45.70930880172612,-22.2557185719654,0 -45.7093000512862,-22.25577842362231,0 -45.70951154481972,-22.25588538992312,0 -45.70944081727771,-22.25598982228336,0 -45.70917028181928,-22.25583823441103,0 -45.70910326533709,-22.25580838552422,0 -45.70903062920376,-22.25580842514867,0 -45.70897091738733,-22.25590309423371,0 -45.70887414660877,-22.25588325319064,0 -45.70892641584053,-22.25563869818774,0 -45.70871328805231,-22.2555036199745,0 -45.70873489675489,-22.25541356556339,0 -45.70890803658876,-22.25545349827244,0 -45.70899578406843,-22.25519977650644,0 -45.70946436386365,-22.25549855134791,0 -45.70967521370562,-22.25538595492646,0 -45.70975142023793,-22.25547879645465,0 -45.70955441163563,-22.25561117578896,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>LEV. TOP. ESQUINA ETE</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline81</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-45.70301069256168,-22.25610632415378,0 -45.70290170623794,-22.25606116003834,0 -45.70285410734799,-22.25608252338303,0 -45.70282066335594,-22.25612526974911,0 -45.70283440617907,-22.25620444650974,0 -45.70272284468976,-22.25624677761677,0 -45.70267513602825,-22.25603958347537,0 -45.70261166476195,-22.25606303910613,0 -45.70256596891549,-22.25615892545946,0 -45.70245852148588,-22.2560948198314,0 -45.70254277988185,-22.25583874428045,0 -45.70238575044754,-22.25573666304033,0 -45.70248418120043,-22.25559691894863,0 -45.7027353876705,-22.25581702401283,0 -45.70305801431534,-22.25597110622307,0 -45.70301069256168,-22.25610632415378,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>LOC. LOTES B. SANTANA II</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline81</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-45.68812379825739,-22.2529170433603,0 -45.68847673352312,-22.25418125335963,0 -45.68800464210451,-22.25435046772683,0 -45.68764187331453,-22.25302336871881,0 -45.68812379825739,-22.2529170433603,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+			<Placemark>
+				<name>CRECHE BEIRA RIO</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline110</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.7181693921836,-22.24475944827278,0 -45.71875495382236,-22.2451975024569,0 -45.71852253855821,-22.24548045816725,0 -45.71793138023564,-22.24505968778049,0 -45.7181693921836,-22.24475944827278,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>CRECHE LUIS RENNÓ</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline110</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.72538385159972,-22.22271338110436,0 -45.72567089288283,-22.2231244768807,0 -45.72538015192107,-22.22328246385961,0 -45.7251109589983,-22.22290128633183,0 -45.72538385159972,-22.22271338110436,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>ESCOLA PARQUE I (ESCOLA FELIZ)</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline110</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.7165562840276,-22.24116088463136,0 -45.7162985800236,-22.2416124005679,0 -45.71552788828353,-22.24126448058817,0 -45.71599317234195,-22.24061998574289,0 -45.7165562840276,-22.24116088463136,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>QUADRA DA ESCOLA PARQUE I (ESCOLA FELIZ)</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline110</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71684650129279,-22.24146101042801,0 -45.71673938014527,-22.24160162277056,0 -45.71648353190226,-22.24171794185332,0 -45.71632563553643,-22.24163652072533,0 -45.7165697311535,-22.24117080153113,0 -45.71684650129279,-22.24146101042801,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>UBS FERNANDES</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline110</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71669424455736,-22.24175226010111,0 -45.71682602936298,-22.24162844094622,0 -45.7169239117317,-22.24144544795417,0 -45.71714227469414,-22.24156578370993,0 -45.71687619143216,-22.24191308222485,0 -45.71669424455736,-22.24175226010111,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>ESCOLA PARQUE III</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline110</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.70522333644595,-22.23377093354359,0 -45.70498609520941,-22.23408730088506,0 -45.70419269145874,-22.23369091169042,0 -45.70327493618972,-22.23278880044005,0 -45.70340242554974,-22.23277142981508,0 -45.70348754374269,-22.23269377112144,0 -45.70522333644595,-22.23377093354359,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>DUPLICAÇÃO AV. EMB. BILAC PINTO - FASE I</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline110</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71371014984496,-22.23022773866343,0 -45.7139099574797,-22.23039245985523,0 -45.71361339978688,-22.23081692825127,0 -45.71318281311044,-22.23123975735827,0 -45.71276969537573,-22.23143832463393,0 -45.71265213377108,-22.23123427271091,0 -45.71304639469576,-22.23102642525979,0 -45.71340847593977,-22.23065317197656,0 -45.71371014984496,-22.23022773866343,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>DUPLICAÇÃO AV. EMB. BILAC PINTO - FASE II</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline110</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.712760471328,-22.23143827833968,0 -45.71171145939352,-22.23208697577845,0 -45.71140544921334,-22.23237197082505,0 -45.71095801062018,-22.23280208032329,0 -45.71031283764408,-22.23351005095846,0 -45.71003277807019,-22.23333067357816,0 -45.71073253694807,-22.23257050745812,0 -45.71124172746721,-22.23204804744553,0 -45.71183590016363,-22.2316495216293,0 -45.71262062443019,-22.23120003305427,0 -45.712760471328,-22.23143827833968,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>EM ELABORAÇÃO</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>NOVA RODOVIÁRIA</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline151</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71151288695734,-22.25288298660453,0 -45.71144908935722,-22.25294152645076,0 -45.71146339591536,-22.25307549372813,0 -45.71149395963857,-22.25329848121347,0 -45.71148975624608,-22.25351514756504,0 -45.71135457969643,-22.25399118196702,0 -45.71121555944086,-22.25391231033474,0 -45.71133081811525,-22.25363685546253,0 -45.71099321739396,-22.2528543324119,0 -45.71045639105853,-22.25192052299309,0 -45.71054805810585,-22.25188600336131,0 -45.71075516984791,-22.25216940841629,0 -45.7108651195877,-22.25208611191508,0 -45.71151288695734,-22.25288298660453,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>CANALIZAÇÃO B. FAMÍLIA ANDRADE</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline151</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71054392278916,-22.25275905373367,0 -45.71029485576094,-22.25360900674865,0 -45.71021197112775,-22.25360901986795,0 -45.71033276917595,-22.25313036469928,0 -45.70894805597093,-22.25282399726121,0 -45.70883330998104,-22.25287153456727,0 -45.70849896267332,-22.25248047553055,0 -45.70859844695835,-22.25244341526183,0 -45.70883392221076,-22.25278014322353,0 -45.70897603406611,-22.25272167677715,0 -45.71034391262733,-22.25307203144113,0 -45.71043722686433,-22.25274093928882,0 -45.71054392278916,-22.25275905373367,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>REFORMA MERCADO MUNICIPAL</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline151</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.70403080411965,-22.25408388322954,0 -45.70366190121277,-22.25385767826085,0 -45.70379249426519,-22.253667006557,0 -45.70416244433959,-22.2539013259941,0 -45.70403080411965,-22.25408388322954,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>REFORMA ESCOLA JOSÉ RIBEIRO</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline151</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71852666109758,-22.22362517350923,0 -45.71820480174596,-22.22442370879319,0 -45.71814514432464,-22.22439332345168,0 -45.71755031271763,-22.22478056485031,0 -45.71672532942245,-22.22447664556822,0 -45.71740221085544,-22.223978073417,0 -45.71789213737112,-22.22377265151698,0 -45.71852666109758,-22.22362517350923,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SAMU COLINA DAS PALMEIRAS</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline151</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71533352772823,-22.2339296439658,0 -45.71567552135902,-22.23376910113299,0 -45.71588912504046,-22.23411417405343,0 -45.71554381791653,-22.23429368468128,0 -45.71533352772823,-22.2339296439658,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>CASI E CASA DA CRIANÇA</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline151</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71513390697411,-22.23367440179479,0 -45.71546450074993,-22.23348294110504,0 -45.71568045375637,-22.2337737124624,0 -45.71533938868701,-22.23392510211862,0 -45.71513390697411,-22.23367440179479,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>PRÓXIMOS PROJETOS</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>AVENIDA PARQUE - TRECHO I</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline310</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.72649396950126,-22.2515333981791,0 -45.72350830856965,-22.25065960136522,0 -45.72383616281677,-22.25026623717969,0 -45.72482509752187,-22.25053675879994,0 -45.72545063814199,-22.24837257474001,0 -45.725167916451,-22.24733498893887,0 -45.72418076702068,-22.24662183253496,0 -45.7228608918708,-22.24583461740536,0 -45.72152822216692,-22.24714359232099,0 -45.72052850296094,-22.24772628652817,0 -45.72025395519253,-22.24747715971436,0 -45.7227855418264,-22.24537692517763,0 -45.72441926766349,-22.24619808625666,0 -45.72548601104633,-22.24712481168241,0 -45.72571812395174,-22.24822422077386,0 -45.72517368917427,-22.25053446965565,0 -45.72677707451211,-22.2510126533928,0 -45.72649396950126,-22.2515333981791,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>AVENIDA PARQUE - TRECHO II</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline310</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.72239608992394,-22.24572194968708,0 -45.71933648027365,-22.24200813106388,0 -45.71694982034985,-22.24142801573162,0 -45.71523644017356,-22.23992803889589,0 -45.71559807592433,-22.23962858207345,0 -45.71715866004434,-22.24104104373436,0 -45.720047697892,-22.2416731883904,0 -45.72279635234768,-22.24537240157201,0 -45.72239608992394,-22.24572194968708,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>DUPLICAÇÃO AV. EMB. BILAC PINTO - FASE III</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline310</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.70902022379004,-22.23745247451727,0 -45.70881244440934,-22.23697759832753,0 -45.70877077062994,-22.23594190079359,0 -45.70884397632121,-22.23502973637179,0 -45.708687219906,-22.23493050600971,0 -45.70885364375614,-22.2347288845049,0 -45.70944767431789,-22.23400019308317,0 -45.71001340638418,-22.23335774147022,0 -45.7103002538718,-22.23357326942677,0 -45.7092424968016,-22.23478704989308,0 -45.70912871178704,-22.23599274391333,0 -45.70927031495616,-22.23732363996313,0 -45.71037195178129,-22.23825951777172,0 -45.71094001487283,-22.23841363396469,0 -45.71097387299054,-22.23872224065835,0 -45.71035062841577,-22.23862330915707,0 -45.70902022379004,-22.23745247451727,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>DISTRITO INDUSTRIAL CEEMPAC</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline310</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.76975213258303,-22.26227598669238,0 -45.77048192438216,-22.2608754737605,0 -45.77166502481555,-22.26144152575414,0 -45.77318312995855,-22.2616235396619,0 -45.7736578174734,-22.26486340158712,0 -45.7670347902319,-22.2647656682484,0 -45.76789519400968,-22.26179471252703,0 -45.76975213258303,-22.26227598669238,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>DISTRITO INDUSTRIAL FAZENDA BELVEDERE</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline310</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.78542651729033,-22.26550222037751,0 -45.78518248728906,-22.26382872064251,0 -45.7849411464122,-22.26229673202189,0 -45.78430294744405,-22.26090177127705,0 -45.78503682912114,-22.26028759495522,0 -45.78567478177596,-22.26007871087286,0 -45.78759289075977,-22.26030741488866,0 -45.7886128948872,-22.2627935976392,0 -45.78933583359979,-22.26419609670195,0 -45.78542651729033,-22.26550222037751,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>PONTE BAIRRO SÃO JOÃO</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline310</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71403620230328,-22.22802636988803,0 -45.71374838250222,-22.22819440609558,0 -45.71368837156351,-22.22811140282396,0 -45.71395938823081,-22.22794873283296,0 -45.71403620230328,-22.22802636988803,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>RESERVATÓRIO DE DETENÇÃO SÃO JOÃO</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline310</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71036774193004,-22.2201496900508,0 -45.71499380634048,-22.22036206219165,0 -45.71517073753886,-22.22183837374824,0 -45.71619878699778,-22.22234617867571,0 -45.71631280804666,-22.22279638129297,0 -45.71586705769099,-22.22360947796104,0 -45.71452283248178,-22.22365041790239,0 -45.71435320341998,-22.22633804257985,0 -45.71408821506309,-22.22765315233514,0 -45.71255403965029,-22.2278292299522,0 -45.7121546891177,-22.23035724642118,0 -45.71051653416943,-22.23000202586793,0 -45.71036566217568,-22.2227868105861,0 -45.71036774193004,-22.2201496900508,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>ASSOCIAÇÃO COMERCIAL - ACVALE</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline310</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71546275846588,-22.23348178572789,0 -45.7151326774678,-22.23367242192774,0 -45.71498134990091,-22.23347112277439,0 -45.71531092582723,-22.23329103522776,0 -45.71546275846588,-22.23348178572789,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>NOVO BLOCO CRECHE LUIS RENNÓ + SALÃO COMUNITÁRIO</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline310</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.72511134720563,-22.22289705938767,0 -45.72505130436155,-22.22280003498582,0 -45.7253342021282,-22.22262041318444,0 -45.72538868956995,-22.22272022535534,0 -45.72511134720563,-22.22289705938767,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>NOVO BLOCO CRECHE BEIRA RIO - ADITIVO</name>
+				<visibility>0</visibility>
+				<styleUrl>#inline310</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-45.71891431311165,-22.2453021365868,0 -45.71866853359557,-22.24559732162687,0 -45.71851903140417,-22.24548382749778,0 -45.71875919588225,-22.2451971082972,0 -45.71891431311165,-22.2453021365868,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
